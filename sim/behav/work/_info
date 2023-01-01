@@ -1,0 +1,799 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/sim/behav
+T_opt
+!s110 1665406572
+V=J6K]bmWoTe@PM:`7I9BQ1
+04 7 4 work fifo_tb fast 0
+04 7 4 usim GTP_GRS fast 0
+=1-94e70b0c4199-6344166a-362-3e24
+o-quiet -auto_acc_if_foreign -work work -L work -L usim +acc
+n@_opt
+OL;O;10.4;61
+vafifo_16i_64o_512
+Z1 !s110 1665406569
+!i10b 1
+!s100 TAf?X2[nR`DO>6ZKHM9D]0
+ITZYd8WEWKnRMPa:R9iV9m0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1665406001
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512.v
+Z4 L0 18
+Z5 OL;L;10.4;61
+r1
+!s85 0
+31
+!s108 1665406569.606000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512.v|-work|work|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vafifo_16i_64o_512_tb
+Z7 !s110 1665406570
+!i10b 1
+!s100 84gO0zec`NWj;0a_h`WUP0
+IEi]A:>e8cT>4OaB7L<Oi?3
+R2
+R0
+R3
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512_tb.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512_tb.v
+Z8 L0 20
+R5
+r1
+!s85 0
+31
+!s108 1665406570.282000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512_tb.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512_tb.v|-work|work|
+!i113 0
+R6
+vafifo_64i_16o_128
+R7
+!i10b 1
+!s100 UA^2o9@To[1gMM3Jk9Nf=1
+IB2InVJn4fNVnSn;YQT]LP3
+R2
+R0
+Z9 w1608619663
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/afifo_64i_16o_128.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/afifo_64i_16o_128.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1665406569.999000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/afifo_64i_16o_128.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/afifo_64i_16o_128.v|-work|work|
+!i113 0
+R6
+vaq_axi_master
+Z10 !s110 1665406566
+!i10b 1
+!s100 NMJI[jmg9jJOlTooD0czF3
+I]YM5N1_E0nm;4^PiThcnz1
+R2
+R0
+w1519870618
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/aq_axi_master.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/aq_axi_master.v
+L0 39
+R5
+r1
+!s85 0
+31
+!s108 1665406566.839000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/aq_axi_master.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/aq_axi_master.v|-work|work|
+!i113 0
+R6
+vcmos_8_16bit
+R10
+!i10b 1
+!s100 en]_j`nJ6izHoQ72V=`c=2
+IQW8WTW>9L=OkeGhgK6SP20
+R2
+R0
+w1665198829
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_8_16bit.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_8_16bit.v
+Z11 L0 30
+R5
+r1
+!s85 0
+31
+!s108 1665406566.934000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_8_16bit.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_8_16bit.v|-work|work|
+!i113 0
+R6
+vcmos_write_req_gen
+Z12 !s110 1665406567
+!i10b 1
+!s100 gM>CGn:KoN>IQ22hUZM:o1
+ImJX^6Fd22b_:XCzESOQ_>2
+R2
+R0
+w1665392747
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_write_req_gen.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_write_req_gen.v
+R11
+R5
+r1
+!s85 0
+31
+!s108 1665406567.028000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_write_req_gen.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_write_req_gen.v|-work|work|
+!i113 0
+R6
+vcolor_bar
+R12
+!i10b 1
+!s100 VFmdV=W;aZ_=`BWolz54A2
+IeC3OSl=9Vd=Ie0UQO58Mc2
+R2
+R0
+Z13 w1500957176
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/color_bar.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/color_bar.v
+L0 33
+R5
+r1
+!s85 0
+31
+!s108 1665406567.123000
+!s107 E:\Arm\purple_light\14_1_ddr3_ov5640_hdmi\source\sources_1\video_define.v|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/color_bar.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/color_bar.v|-work|work|
+!i113 0
+R6
+vddr3
+R1
+!i10b 1
+!s100 dYVl1:>TV2@JYCVhZkd^j0
+I:^CEc?giL]hzgS1Pd4>Z83
+R2
+R0
+w1606213299
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/ddr3/ddr3.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/ddr3/ddr3.v
+Z14 L0 21
+R5
+r1
+!s85 0
+31
+!s108 1665406569.016000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/ddr3/ddr3.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/ddr3/ddr3.v|-work|work|
+!i113 0
+R6
+vdvi_encoder
+R12
+!i10b 1
+!s100 hAFJaeO0hN]9A[E2LAF]a1
+I?LY7DA:9;NZ=iCR@XLBL>0
+R2
+R0
+w1519814003
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/dvi_encoder.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/dvi_encoder.v
+L0 2
+R5
+r1
+!s85 0
+31
+!s108 1665406567.880000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/dvi_encoder.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/dvi_encoder.v|-work|work|
+!i113 0
+R6
+vencode
+R12
+!i10b 1
+!s100 g0oCLPEIOH[8Eo]_hbG950
+IcT[GF_@4979S5X<E@_z9z0
+R2
+R0
+w1216887230
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/encode.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/encode.v
+L0 46
+R5
+r1
+!s85 0
+31
+!s108 1665406567.973000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/encode.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/encode.v|-work|work|
+!i113 0
+R6
+vfifo_tb
+R7
+!i10b 1
+!s100 VE[?M6Cc6[zao4V0DUa2U1
+Im6:H1H<K=Ihl51Y<Vn3kc1
+R2
+R0
+w1665406520
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/fifo_tb.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/fifo_tb.v
+L0 5
+R5
+r1
+!s85 0
+31
+!s108 1665406570.094000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/fifo_tb.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/fifo_tb.v|-work|work|
+!i113 0
+R6
+vframe_fifo_read
+R12
+!i10b 1
+!s100 z1A`5oSzb3VnB4@_<H2<Z3
+Ihaa8Lci3Y4TaQEYajXfCo1
+R2
+R0
+w1515573377
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_read.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_read.v
+Z15 L0 31
+R5
+r1
+!s85 0
+31
+!s108 1665406567.220000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_read.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_read.v|-work|work|
+!i113 0
+R6
+vframe_fifo_write
+R12
+!i10b 1
+!s100 hGd7BJZbnI_Fjc>2[06@82
+IXf?NO:UmkfO_Ske1:@Ea:0
+R2
+R0
+R13
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_write.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_write.v
+R15
+R5
+r1
+!s85 0
+31
+!s108 1665406567.315000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_write.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_write.v|-work|work|
+!i113 0
+R6
+vframe_read_write
+R12
+!i10b 1
+!s100 h>=4Co3>DbY3oaTG?lIk23
+Ie@PdeoUNFJCTbInkhEcUJ1
+R2
+R0
+w1665401741
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_read_write.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_read_write.v
+R15
+R5
+r1
+!s85 0
+31
+!s108 1665406567.409000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_read_write.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_read_write.v|-work|work|
+!i113 0
+R6
+vframe_write_read
+R7
+!i10b 1
+!s100 BWR6D0;iP9zd2LlZFMPjR2
+IlP=d:IB`Rm;AIWXTCdbaf2
+R2
+R0
+w1665403810
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/frame_write_read.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/frame_write_read.v
+L0 1
+R5
+r1
+!s85 0
+31
+!s108 1665406570.187000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/frame_write_read.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/frame_write_read.v|-work|work|
+!i113 0
+R6
+vi2c_config
+R10
+!i10b 1
+!s100 YIUi`lBg__?1D=GcbBlMV0
+I8O]?dm6El@4Q4lNiOED?H2
+R2
+R0
+w1500957169
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_config.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_config.v
+R11
+R5
+r1
+!s85 0
+31
+!s108 1665406566.278000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_config.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_config.v|-work|work|
+!i113 0
+R6
+vi2c_master_bit_ctrl
+R10
+!i10b 1
+!s100 eO0SMdlX78H7D>XKMVTH72
+I5dBe_QCOd?chP1T=[K3VZ2
+R2
+R0
+R13
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_bit_ctrl.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_bit_ctrl.v
+L0 143
+R5
+r1
+!s85 0
+31
+!s108 1665406566.375000
+!s107 E:\Arm\purple_light\14_1_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_defines.v|E:\Arm\purple_light\14_1_ddr3_ov5640_hdmi\source\i2c_master\timescale.v|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_bit_ctrl.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_bit_ctrl.v|-work|work|
+!i113 0
+R6
+vi2c_master_byte_ctrl
+R10
+!i10b 1
+!s100 N3kB>eKO:o:_OgFOJ`Wne3
+I^9Xl@VdT5mF4Q<;0Bf1hh1
+R2
+R0
+w1564124306
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_byte_ctrl.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_byte_ctrl.v
+L0 75
+R5
+r1
+!s85 0
+31
+!s108 1665406566.478000
+!s107 E:\Arm\purple_light\14_1_ddr3_ov5640_hdmi\source\i2c_master\i2c_master_defines.v|E:\Arm\purple_light\14_1_ddr3_ov5640_hdmi\source\i2c_master\timescale.v|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_byte_ctrl.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_byte_ctrl.v|-work|work|
+!i113 0
+R6
+vi2c_master_top
+R10
+!i10b 1
+!s100 7fb25ga];Y7fz_5AlCUG=3
+IXT;OI`2_n?ESPgB>ADzb[1
+R2
+R0
+w1560318924
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_top.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_top.v
+R11
+R5
+r1
+!s85 0
+31
+!s108 1665406566.660000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_top.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_top.v|-work|work|
+!i113 0
+R6
+vipml_fifo_ctrl_v1_3
+R1
+!i10b 1
+!s100 P3gXkkID5`N:B5iWMh33i2
+I=m`Yzif6ozXo4hd[8`PF63
+R2
+R0
+w1601355514
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_ctrl_v1_3.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_ctrl_v1_3.v
+R14
+R5
+r1
+!s85 0
+31
+!s108 1665406569.699000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_ctrl_v1_3.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_ctrl_v1_3.v|-work|work|
+!i113 0
+R6
+vipml_fifo_v1_5_afifo_16i_64o_512
+R1
+!i10b 1
+!s100 TH6@c7SVTV?>7Blk1J]NR3
+IMFHj9Izng`WOk;^95n8ES3
+R2
+R0
+R3
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_fifo_v1_5_afifo_16i_64o_512.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_fifo_v1_5_afifo_16i_64o_512.v
+Z16 L0 25
+R5
+r1
+!s85 0
+31
+!s108 1665406569.514000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_fifo_v1_5_afifo_16i_64o_512.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_fifo_v1_5_afifo_16i_64o_512.v|-work|work|
+!i113 0
+R6
+vipml_fifo_v1_5_afifo_64i_16o_128
+R1
+!i10b 1
+!s100 lTTo_eB]Q<LI5=[ZoM^?`1
+I?N:ASNTiNXA_YLnFdJnga2
+R2
+R0
+R9
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_v1_5_afifo_64i_16o_128.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_v1_5_afifo_64i_16o_128.v
+R16
+R5
+r1
+!s85 0
+31
+!s108 1665406569.902000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_v1_5_afifo_64i_16o_128.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_v1_5_afifo_64i_16o_128.v|-work|work|
+!i113 0
+R6
+vipml_sdpram_v1_5_afifo_16i_64o_512
+R1
+!i10b 1
+!s100 Xhl0M^HM^ShEFm8M[?f>;3
+IaDRRigDEKbKIRzcE@zn5o2
+R2
+R0
+R3
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v
+R8
+R5
+r1
+!s85 0
+31
+!s108 1665406569.409000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v|-work|work|
+!i113 0
+R6
+vipml_sdpram_v1_5_afifo_64i_16o_128
+R1
+!i10b 1
+!s100 _jM4S0dM=KXUJVkBBkQG91
+IEN6S4>PmDYAD=Em;zzP1e2
+R2
+R0
+R9
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_sdpram_v1_5_afifo_64i_16o_128.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_sdpram_v1_5_afifo_64i_16o_128.v
+R8
+R5
+r1
+!s85 0
+31
+!s108 1665406569.793000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_sdpram_v1_5_afifo_64i_16o_128.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_sdpram_v1_5_afifo_64i_16o_128.v|-work|work|
+!i113 0
+R6
+vipsl_hmic_h_ddrc_apb_reset_v1_1
+Z17 !s110 1665406568
+!i10b 1
+!s100 iU7ZCai>S67@GAkXY`n[G2
+I`Xfa74^z1dH^=2UMd4AAL0
+R2
+R0
+Z18 w1608014066
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_apb_reset_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_apb_reset_v1_1.v
+Z19 L0 17
+R5
+r1
+!s85 0
+31
+!s108 1665406568.161000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_apb_reset_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_apb_reset_v1_1.v|-work|work|
+!i113 0
+R6
+vipsl_hmic_h_ddrc_reset_ctrl_v1_1
+R17
+!i10b 1
+!s100 YAI6b[aYfc0gfNKMGjamc2
+I>^;C`oL;mPR3DKC<<U;bk0
+R2
+R0
+w1608535891
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_reset_ctrl_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_reset_ctrl_v1_1.v
+R19
+R5
+r1
+!s85 0
+31
+!s108 1665406568.258000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_reset_ctrl_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_reset_ctrl_v1_1.v|-work|work|
+!i113 0
+R6
+vipsl_hmic_h_ddrc_top_v1_1
+R17
+!i10b 1
+!s100 ce43mA;oHZNAFY:O;1GDz0
+IdCkjDkHBn:likjz:;gPjc1
+R2
+R0
+w1608535828
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_top_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_top_v1_1.v
+R19
+R5
+r1
+!s85 0
+31
+!s108 1665406568.351000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_top_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_top_v1_1.v|-work|work|
+!i113 0
+R6
+vipsl_hmic_h_ddrphy_dll_update_ctrl_v1_1
+R17
+!i10b 1
+!s100 PPzIRG@gIo[3UOA69i4NW2
+I^]KORTolTC=4MCSgj_M`42
+R2
+R0
+R18
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_dll_update_ctrl_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_dll_update_ctrl_v1_1.v
+R19
+R5
+r1
+!s85 0
+31
+!s108 1665406568.445000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_dll_update_ctrl_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_dll_update_ctrl_v1_1.v|-work|work|
+!i113 0
+R6
+vipsl_hmic_h_ddrphy_reset_ctrl_v1_1
+R17
+!i10b 1
+!s100 ldSNn=LPUNCekBKbC05UF2
+IB9eHG5OgSmTAn<RUQjC941
+R2
+R0
+R18
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_reset_ctrl_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_reset_ctrl_v1_1.v
+R19
+R5
+r1
+!s85 0
+31
+!s108 1665406568.538000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_reset_ctrl_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_reset_ctrl_v1_1.v|-work|work|
+!i113 0
+R6
+vipsl_hmic_h_ddrphy_training_ctrl_v1_1
+R17
+!i10b 1
+!s100 _]2XhJ]<jaImVinEc4^6R2
+IcTV^n6LiS=gdSn7jE[UAn0
+R2
+R0
+R18
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_training_ctrl_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_training_ctrl_v1_1.v
+R19
+R5
+r1
+!s85 0
+31
+!s108 1665406568.631000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_training_ctrl_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_training_ctrl_v1_1.v|-work|work|
+!i113 0
+R6
+vipsl_hmic_h_ddrphy_update_ctrl_v1_1
+R17
+!i10b 1
+!s100 dc7B2TON5cH?cFROhC1WW2
+Ij19M>TT0>zSAO5d^njFC61
+R2
+R0
+R18
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_update_ctrl_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_update_ctrl_v1_1.v
+R19
+R5
+r1
+!s85 0
+31
+!s108 1665406568.723000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_update_ctrl_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_update_ctrl_v1_1.v|-work|work|
+!i113 0
+R6
+vipsl_hmic_h_phy_io_v1_1
+R17
+!i10b 1
+!s100 ca23cjg36XKIZ<F?KfJ_^0
+IT?hBm0fVR2O<IO^hkoojb1
+R2
+R0
+R18
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_io_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_io_v1_1.v
+R19
+R5
+r1
+!s85 0
+31
+!s108 1665406568.815000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_io_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_io_v1_1.v|-work|work|
+!i113 0
+R6
+vipsl_hmic_h_phy_top_v1_1
+R17
+!i10b 1
+!s100 z9TT;dl@z5KNG[9fQe[9I3
+I0z]MdQj@P]ELO7JRKGEF23
+R2
+R0
+w1608535803
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_top_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_top_v1_1.v
+R19
+R5
+r1
+!s85 0
+31
+!s108 1665406568.922000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_top_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_top_v1_1.v|-work|work|
+!i113 0
+R6
+vlut_ov5640_rgb565_1024_768
+R12
+!i10b 1
+!s100 C9a?_Ib75=U8KKhURo6<E0
+Ii3D708?MmP[N<zWGMmO5C1
+R2
+R0
+w1500957168
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/lut_ov5640_rgb565_1024_768.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/lut_ov5640_rgb565_1024_768.v
+R11
+R5
+r1
+!s85 0
+31
+!s108 1665406567.503000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/lut_ov5640_rgb565_1024_768.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/lut_ov5640_rgb565_1024_768.v|-work|work|
+!i113 0
+R6
+vpll_50_400_v1_1
+R1
+!i10b 1
+!s100 OA8J8BfT8<`dh?h7;DK;D3
+I0kjPO[>XAW<_zZ14BoG5E1
+R2
+R0
+w1608521709
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/pll/pll_50_400_v1_1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/pll/pll_50_400_v1_1.v
+R14
+R5
+r1
+!s85 0
+31
+!s108 1665406569.121000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/pll/pll_50_400_v1_1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/pll/pll_50_400_v1_1.v|-work|work|
+!i113 0
+R6
+vserdes_4b_10to1
+R17
+!i10b 1
+!s100 Wfk2=gVzi9iTGIFQ2K;o@2
+IJ4=9h_gbe4Wn4D^Nj[A0M0
+R2
+R0
+w1606460903
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/serdes_4b_10to1.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/serdes_4b_10to1.v
+L0 3
+R5
+r1
+!s85 0
+31
+!s108 1665406568.066000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/serdes_4b_10to1.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/serdes_4b_10to1.v|-work|work|
+!i113 0
+R6
+vtop
+R12
+!i10b 1
+!s100 MjfCCZ@AGmfR?P1z>7kS>2
+Ia;3aIcb4[B<eB<>VJF]8P0
+R2
+R0
+w1665401791
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/top.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/top.v
+R11
+R5
+r1
+!s85 0
+31
+!s108 1665406567.602000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/top.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/top.v|-work|work|
+!i113 0
+R6
+vvideo_pll
+R1
+!i10b 1
+!s100 30ZBh7RZ:P<14<z[?F<H>1
+I]OXFAg<h9gg6XQD`XNYQi3
+R2
+R0
+w1665379013
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/video_pll/video_pll.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/video_pll/video_pll.v
+R8
+R5
+r1
+!s85 0
+31
+!s108 1665406569.220000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/video_pll/video_pll.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/video_pll/video_pll.v|-work|work|
+!i113 0
+R6
+vvideo_timing_data
+R12
+!i10b 1
+!s100 5LFNjFaZ>BU0cKDZ20lJ33
+I9N1I6NN?ez^`76Y4f3U:B0
+R2
+R0
+w1665378688
+8E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/video_timing_data.v
+FE:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/video_timing_data.v
+R11
+R5
+r1
+!s85 0
+31
+!s108 1665406567.786000
+!s107 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/video_timing_data.v|
+!s90 -reportprogress|300|E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/video_timing_data.v|-work|work|
+!i113 0
+R6

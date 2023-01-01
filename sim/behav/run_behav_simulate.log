@@ -1,0 +1,466 @@
+# Reading D:/Program_Files/modeltech64_10.4/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.4 Dec  3 2014 
+# //
+# //  Copyright 1991-2014 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# do {run_behav_compile.tcl}
+# ** Error: (vlib-35) Failed to create directory "work".
+# 
+# File exists. (errno = EEXIST)
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet work ./work 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vmap 10.4 Lib Mapping Utility 2014.12 Dec  3 2014
+# vmap -modelsim_quiet usim D:/Program_Files/modeltech64_10.4/pango_sim_libraries/usim 
+# Modifying modelsim.ini
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:06 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_config.v -work work 
+# -- Compiling module i2c_config
+# 
+# Top level modules:
+# 	i2c_config
+# End time: 20:56:06 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:06 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_bit_ctrl.v -work work 
+# -- Compiling module i2c_master_bit_ctrl
+# 
+# Top level modules:
+# 	i2c_master_bit_ctrl
+# End time: 20:56:06 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:06 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_byte_ctrl.v -work work 
+# -- Compiling module i2c_master_byte_ctrl
+# 
+# Top level modules:
+# 	i2c_master_byte_ctrl
+# End time: 20:56:06 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:06 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_defines.v -work work 
+# End time: 20:56:06 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:06 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/i2c_master_top.v -work work 
+# -- Compiling module i2c_master_top
+# 
+# Top level modules:
+# 	i2c_master_top
+# End time: 20:56:06 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:06 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/i2c_master/timescale.v -work work 
+# End time: 20:56:06 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:06 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/aq_axi_master.v -work work 
+# -- Compiling module aq_axi_master
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/aq_axi_master.v(304): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# 
+# Top level modules:
+# 	aq_axi_master
+# End time: 20:56:06 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:06 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_8_16bit.v -work work 
+# -- Compiling module cmos_8_16bit
+# 
+# Top level modules:
+# 	cmos_8_16bit
+# End time: 20:56:06 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/cmos_write_req_gen.v -work work 
+# -- Compiling module cmos_write_req_gen
+# 
+# Top level modules:
+# 	cmos_write_req_gen
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/color_bar.v -work work 
+# -- Compiling module color_bar
+# 
+# Top level modules:
+# 	color_bar
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_read.v -work work 
+# -- Compiling module frame_fifo_read
+# 
+# Top level modules:
+# 	frame_fifo_read
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_fifo_write.v -work work 
+# -- Compiling module frame_fifo_write
+# 
+# Top level modules:
+# 	frame_fifo_write
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/frame_read_write.v -work work 
+# -- Compiling module frame_read_write
+# 
+# Top level modules:
+# 	frame_read_write
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/lut_ov5640_rgb565_1024_768.v -work work 
+# -- Compiling module lut_ov5640_rgb565_1024_768
+# 
+# Top level modules:
+# 	lut_ov5640_rgb565_1024_768
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/top.v -work work 
+# -- Compiling module top
+# 
+# Top level modules:
+# 	top
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/video_define.v -work work 
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/sources_1/video_timing_data.v -work work 
+# -- Compiling module video_timing_data
+# 
+# Top level modules:
+# 	video_timing_data
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/dvi_encoder.v -work work 
+# -- Compiling module dvi_encoder
+# 
+# Top level modules:
+# 	dvi_encoder
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:07 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/encode.v -work work 
+# -- Compiling module encode
+# 
+# Top level modules:
+# 	encode
+# End time: 20:56:07 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/dvi_tx/serdes_4b_10to1.v -work work 
+# -- Compiling module serdes_4b_10to1
+# 
+# Top level modules:
+# 	serdes_4b_10to1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_apb_reset_v1_1.v -work work 
+# -- Compiling module ipsl_hmic_h_ddrc_apb_reset_v1_1
+# 
+# Top level modules:
+# 	ipsl_hmic_h_ddrc_apb_reset_v1_1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_reset_ctrl_v1_1.v -work work 
+# -- Compiling module ipsl_hmic_h_ddrc_reset_ctrl_v1_1
+# 
+# Top level modules:
+# 	ipsl_hmic_h_ddrc_reset_ctrl_v1_1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrc_top_v1_1.v -work work 
+# -- Compiling module ipsl_hmic_h_ddrc_top_v1_1
+# 
+# Top level modules:
+# 	ipsl_hmic_h_ddrc_top_v1_1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_dll_update_ctrl_v1_1.v -work work 
+# -- Compiling module ipsl_hmic_h_ddrphy_dll_update_ctrl_v1_1
+# 
+# Top level modules:
+# 	ipsl_hmic_h_ddrphy_dll_update_ctrl_v1_1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_reset_ctrl_v1_1.v -work work 
+# -- Compiling module ipsl_hmic_h_ddrphy_reset_ctrl_v1_1
+# 
+# Top level modules:
+# 	ipsl_hmic_h_ddrphy_reset_ctrl_v1_1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_training_ctrl_v1_1.v -work work 
+# -- Compiling module ipsl_hmic_h_ddrphy_training_ctrl_v1_1
+# 
+# Top level modules:
+# 	ipsl_hmic_h_ddrphy_training_ctrl_v1_1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_ddrphy_update_ctrl_v1_1.v -work work 
+# -- Compiling module ipsl_hmic_h_ddrphy_update_ctrl_v1_1
+# 
+# Top level modules:
+# 	ipsl_hmic_h_ddrphy_update_ctrl_v1_1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_io_v1_1.v -work work 
+# -- Compiling module ipsl_hmic_h_phy_io_v1_1
+# 
+# Top level modules:
+# 	ipsl_hmic_h_phy_io_v1_1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/rtl/ipsl_hmic_h_phy_top_v1_1.v -work work 
+# -- Compiling module ipsl_hmic_h_phy_top_v1_1
+# 
+# Top level modules:
+# 	ipsl_hmic_h_phy_top_v1_1
+# End time: 20:56:08 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:08 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/ddr3/ddr3.v -work work 
+# -- Compiling module ddr3
+# 
+# Top level modules:
+# 	ddr3
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/pll/pll_50_400_v1_1.v -work work 
+# -- Compiling module pll_50_400_v1_1
+# 
+# Top level modules:
+# 	pll_50_400_v1_1
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/video_pll/video_pll.v -work work 
+# -- Compiling module video_pll
+# 
+# Top level modules:
+# 	video_pll
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_fifo_ctrl_v1_3.v -work work 
+# -- Compiling module ipml_fifo_ctrl_v1_3
+# 
+# Top level modules:
+# 	ipml_fifo_ctrl_v1_3
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v -work work 
+# -- Compiling module ipml_sdpram_v1_5_afifo_16i_64o_512
+# 
+# Top level modules:
+# 	ipml_sdpram_v1_5_afifo_16i_64o_512
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_fifo_v1_5_afifo_16i_64o_512.v -work work 
+# -- Compiling module ipml_fifo_v1_5_afifo_16i_64o_512
+# 
+# Top level modules:
+# 	ipml_fifo_v1_5_afifo_16i_64o_512
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512.v -work work 
+# -- Compiling module afifo_16i_64o_512
+# 
+# Top level modules:
+# 	afifo_16i_64o_512
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_ctrl_v1_3.v -work work 
+# -- Compiling module ipml_fifo_ctrl_v1_3
+# 
+# Top level modules:
+# 	ipml_fifo_ctrl_v1_3
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_sdpram_v1_5_afifo_64i_16o_128.v -work work 
+# -- Compiling module ipml_sdpram_v1_5_afifo_64i_16o_128
+# 
+# Top level modules:
+# 	ipml_sdpram_v1_5_afifo_64i_16o_128
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/rtl/ipml_fifo_v1_5_afifo_64i_16o_128.v -work work 
+# -- Compiling module ipml_fifo_v1_5_afifo_64i_16o_128
+# 
+# Top level modules:
+# 	ipml_fifo_v1_5_afifo_64i_16o_128
+# End time: 20:56:09 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:09 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_64i_16o_128/afifo_64i_16o_128.v -work work 
+# -- Compiling module afifo_64i_16o_128
+# 
+# Top level modules:
+# 	afifo_64i_16o_128
+# End time: 20:56:10 on Oct 10,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:10 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/fifo_tb.v -work work 
+# -- Compiling module fifo_tb
+# 
+# Top level modules:
+# 	fifo_tb
+# End time: 20:56:10 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:10 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/frame_write_read.v -work work 
+# -- Compiling module frame_write_read
+# 
+# Top level modules:
+# 	frame_write_read
+# End time: 20:56:10 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+# Start time: 20:56:10 on Oct 10,2022
+# vlog -reportprogress 300 E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/afifo_16i_64o_512_tb.v -work work 
+# -- Compiling module afifo_16i_64o_512_tb
+# 
+# Top level modules:
+# 	afifo_16i_64o_512_tb
+# End time: 20:56:10 on Oct 10,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# do {run_behav_simulate.tcl}
+# vsim -gui -do "do {run_behav_compile.tcl};do {run_behav_simulate.tcl}" -l run_behav_simulate.log 
+# Start time: 20:56:10 on Oct 10,2022
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(845): (vopt-2685) [TFMPC] - Too few port connections for 'U_GTP_DRM18K'.  Expected 21, found 20.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(845): (vopt-2718) [TFMPC] - Missing connection for port 'WWCONF'.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(845): (vopt-2685) [TFMPC] - Too few port connections for 'U_GTP_DRM18K'.  Expected 21, found 20.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(845): (vopt-2718) [TFMPC] - Missing connection for port 'WWCONF'.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(845): (vopt-2685) [TFMPC] - Too few port connections for 'U_GTP_DRM18K'.  Expected 21, found 20.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(845): (vopt-2718) [TFMPC] - Missing connection for port 'WWCONF'.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(845): (vopt-2685) [TFMPC] - Too few port connections for 'U_GTP_DRM18K'.  Expected 21, found 20.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(845): (vopt-2718) [TFMPC] - Missing connection for port 'WWCONF'.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(507): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(517): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(529): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(539): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(544): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(545): (vopt-2576) [BSOB] - Bit-select into 'wr_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(702): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(707): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(712): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(724): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(739): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# 
+# ** Warning: E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/ipcore/afifo_16i_64o_512/rtl/ipml_sdpram_v1_5_afifo_16i_64o_512.v(740): (vopt-2576) [BSOB] - Bit-select into 'rd_addr_bus' is out of bounds.
+# 
+# Loading work.fifo_tb(fast)
+# Loading usim.GTP_GRS(fast__1)
+# Loading work.afifo_16i_64o_512(fast)
+# Loading work.ipml_fifo_v1_5_afifo_16i_64o_512(fast)
+# Loading work.ipml_sdpram_v1_5_afifo_16i_64o_512(fast)
+# Loading usim.GTP_DRM18K(fast)
+# Loading usim.GTP_DRM18K(fast__1)
+# Loading usim.GTP_DRM18K(fast__2)
+# Loading usim.GTP_DRM18K(fast__3)
+# Loading work.ipml_fifo_ctrl_v1_3(fast)
+# Loading usim.GTP_GRS(fast)
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# ** Note: $stop    : E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/fifo_tb.v(70)
+#    Time: 12851 ns  Iteration: 0  Instance: /fifo_tb
+# Break in Module fifo_tb at E:/Arm/purple_light/14_1_ddr3_ov5640_hdmi/source/fifo_tb.v line 70
+# End time: 16:57:49 on Oct 11,2022, Elapsed time: 20:01:39
+# Errors: 0, Warnings: 20

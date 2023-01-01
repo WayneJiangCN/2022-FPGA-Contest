@@ -1,0 +1,3 @@
+create_clock -name {DebugCore_JCLK} [get_pins {u_GTP_SCANCHAIN_PG.TCK_USER}] -period {50.000} -waveform {0.000 25.000}
+create_clock -name {DebugCore_CAPTURE} [get_pins {u_GTP_SCANCHAIN_PG.CAPDR}] -period {100.000} -waveform {25.000 75.000}
+set_clock_groups -name {DebugCoreClockGroup} -asynchronous -group {DebugCore_JCLK DebugCore_CAPTURE}
